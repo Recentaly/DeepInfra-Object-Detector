@@ -105,7 +105,7 @@ output = API.detect(image_b64)
 
 Output format:
 
-```json
+```plain
 {
     "request_id": "xxxxxxxxxxxxxxxxxxxxxxxx" (length 24),
     "inference_status": {
