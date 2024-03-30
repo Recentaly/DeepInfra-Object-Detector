@@ -142,7 +142,7 @@ print(f"Status: {_parse_status(output)}")
 
 Output:
 
-```tex
+```plain
 Label: person
 Box: {'xmin': 0, 'ymin': 0, 'xmax': 300, 'ymax': 297}
 Request ID: RgVuNHcSRvPg2VH7MUNprYoS
